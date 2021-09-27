@@ -1,6 +1,0 @@
-api.xicop.com
-$ dig api.xicop.com +nostats +nocomments +nocmd
-    > ;api.xicop.com.                     IN      A
-    > api.xicop.com.              3592    IN      CNAME   xicopxc.github.io.
-    > xicopxc.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
-    >  GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
